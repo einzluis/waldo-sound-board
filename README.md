@@ -1,1 +1,1 @@
-# sound-board
+# waldo-sound-board
